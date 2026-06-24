@@ -1,0 +1,16 @@
+parameter,value
+random_seed,20260618
+n_waveforms,100000
+sampling_rate_Hz,250000000.0
+dt_ns,4.0
+window_ns,2000.0
+n_samples,500
+t0_ns,200.0
+tau_rise_ns,20.0
+tau_decay_ns,250.0
+reference_energy_keV,59.5
+full_energy_amplitude,0.7
+baseline_fraction,0.1
+gain_sigma_fraction,0.015
+noise_sigma_fraction,0.003
+adc_bits,"8,10,12"

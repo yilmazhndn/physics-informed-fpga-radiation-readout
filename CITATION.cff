@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or workflow, please cite it as below."
+title: "Physics-Informed Synthetic Waveform Generation and Validation for FPGA-Based Radiation Detector Readout Systems"
+type: software
+authors:
+  - family-names: Yilmaz
+    given-names: Handan
+version: 0.1.0
+date-released: 2026-06-24
+repository-code: "https://github.com/yilmazhndn/physics-informed-fpga-radiation-readout"
+keywords:
+  - radiation detector readout
+  - synthetic waveforms
+  - Geant4
+  - FPGA verification
+  - ADC quantization
+  - HDL validation

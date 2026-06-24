@@ -1,0 +1,5 @@
+Geant4 summary:
+The Geant4 simulation of 10^6 monoenergetic 59.5 keV gamma events in the NaI(Tl) detector produced a mean deposited energy of 56.1330 keV with a standard deviation of 9.6234 keV. Events were classified as full-energy-like, partial-deposition and zero-deposition with fractions of 88.7864%, 11.1047% and 0.1089%, respectively.
+
+ADC/readout summary:
+For non-zero energy-deposition events, the reconstructed-energy RMSE increased with analog noise level. At noise sigma = 0.001, the RMSE changed from 0.863 keV at 8-bit to 0.858 keV at 12-bit. At the nominal noise level sigma = 0.003, the RMSE changed from 0.897 keV at 8-bit to 0.892 keV at 12-bit. At the high-noise condition sigma = 0.006, the RMSE changed from 1.031 keV at 8-bit to 1.027 keV at 12-bit. These results indicate that, for the selected waveform model and operating conditions, the readout error is dominated primarily by analog noise and gain variation, while increasing ADC resolution from 8 to 12 bits provides a modest improvement.

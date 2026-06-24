@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Build and temporary outputs
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Large waveform arrays
+waveforms/*.npy
+waveforms/*.npz
+
+# Large publication raster exports
+*.tiff
+*.tif
+
+# Large/derived simulation outputs
+*.root
+*.dat
+*.log
+*.tmp
+
+# Local duplicate/selection folder
+hy/
+
+# Generated executable/output files
+*.out

@@ -1,0 +1,40 @@
+Running NaI(Tl) HDL validation...
+--- 8-bit validation ---
+------------------------------------------------------------
+Starting HDL validation for 8-bit replay vectors
+N_EVENTS          = 1024
+N_SAMPLES         = 500
+THRESHOLD_COUNTS  = 4
+------------------------------------------------------------
+------------------------------------------------------------
+HDL validation completed for 8-bit
+Total events checked : 1024
+Total errors         : 0
+RESULT: PASS
+------------------------------------------------------------
+--- 10-bit validation ---
+------------------------------------------------------------
+Starting HDL validation for 10-bit replay vectors
+N_EVENTS          = 1024
+N_SAMPLES         = 500
+THRESHOLD_COUNTS  = 15
+------------------------------------------------------------
+------------------------------------------------------------
+HDL validation completed for 10-bit
+Total events checked : 1024
+Total errors         : 0
+RESULT: PASS
+------------------------------------------------------------
+--- 12-bit validation ---
+------------------------------------------------------------
+Starting HDL validation for 12-bit replay vectors
+N_EVENTS          = 1024
+N_SAMPLES         = 500
+THRESHOLD_COUNTS  = 61
+------------------------------------------------------------
+------------------------------------------------------------
+HDL validation completed for 12-bit
+Total events checked : 1024
+Total errors         : 0
+RESULT: PASS
+------------------------------------------------------------

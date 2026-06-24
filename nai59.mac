@@ -1,0 +1,11 @@
+/run/initialize
+
+/gun/particle gamma
+/gun/energy 59.5 keV
+/gun/position 0 0 -5 cm
+/gun/direction 0 0 1
+
+/tracking/verbose 0
+/run/printProgress 1000
+
+/run/beamOn 1000000

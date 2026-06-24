@@ -1,0 +1,7 @@
+Licensing note
+
+This repository contains original workflow, analysis, figure-generation, and HDL-validation files prepared by Handan Yilmaz.
+
+Some source files are based on the Geant4 B4a example structure and should be used in accordance with the Geant4 Software License and citation policy.
+
+A formal project license will be finalized before the Zenodo archived release.

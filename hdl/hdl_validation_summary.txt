@@ -1,0 +1,15 @@
+HDL validation summary:
+The HDL validation was performed using Icarus Verilog replay testbenches for 8-bit, 10-bit and 12-bit ADC waveform datasets. Each testbench replayed 1024 synthetic NaI(Tl) waveform events, with 500 samples per event. The Verilog module implemented pre-trigger baseline estimation, threshold triggering, peak-count extraction and peak-index extraction.
+
+Validation result:
+ADC configurations tested : 3
+Configurations passed     : 3
+Total replayed events     : 3072
+Total mismatches          : 0
+
+Per-configuration result:
+- 8-bit: 1024 events checked, 0 errors, PASS
+- 10-bit: 1024 events checked, 0 errors, PASS
+- 12-bit: 1024 events checked, 0 errors, PASS
+
+All HDL outputs matched the software reference labels for trigger decision, peak count and peak index.

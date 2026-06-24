@@ -1,0 +1,10 @@
+Quantity,Value,Unit
+Number of primary events,"1,000,000",events
+Mean deposited energy,56.1330,keV
+Standard deviation,9.6234,keV
+Zero-deposition events,"1,089",events
+Zero-deposition fraction,0.1089,%
+Partial-deposition events,"111,047",events
+Partial-deposition fraction,11.1047,%
+Full-energy-like events,"887,864",events
+Full-energy-like fraction,88.7864,%

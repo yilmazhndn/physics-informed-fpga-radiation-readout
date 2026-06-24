@@ -1,0 +1,4 @@
+adc_bits,n_events,n_samples_per_event,pretrigger_samples,threshold_norm,threshold_counts,flat_sample_mem,expected_trigger_mem,expected_peak_count_mem,expected_peak_index_mem
+8,1024,500,40,0.015,4,nai59_8bit_flat.mem,nai59_8bit_expected_trigger.mem,nai59_8bit_expected_peak_count.mem,nai59_8bit_expected_peak_index.mem
+10,1024,500,40,0.015,15,nai59_10bit_flat.mem,nai59_10bit_expected_trigger.mem,nai59_10bit_expected_peak_count.mem,nai59_10bit_expected_peak_index.mem
+12,1024,500,40,0.015,61,nai59_12bit_flat.mem,nai59_12bit_expected_trigger.mem,nai59_12bit_expected_peak_count.mem,nai59_12bit_expected_peak_index.mem

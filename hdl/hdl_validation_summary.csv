@@ -1,0 +1,4 @@
+adc_bits,events_checked,total_errors,result
+8,1024,0,PASS
+10,1024,0,PASS
+12,1024,0,PASS
