@@ -1,0 +1,15 @@
+Device: xc7a35tcpg236-1
+Target family: Artix-7
+Clock constraint: 250 MHz, 4.000 ns
+Implementation status: route_design complete, failed timing
+LUT: 899
+FF: 118
+BRAM: 0
+URAM: 0
+DSP: 0
+Total power estimate: 0.141 W
+Failed routes: 0
+WNS: -13.835 ns
+TNS: -602.130 ns
+WHS: 0.250 ns
+THS: 0.000 ns
