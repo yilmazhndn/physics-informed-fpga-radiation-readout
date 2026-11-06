@@ -1,12 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this software or workflow, please cite it as below."
-title: "Physics-Informed Synthetic Waveform Generation and Validation for FPGA-Based Radiation Detector Readout Systems"
+message: "If you use this software or workflow, please cite the complete Zenodo release and associated paper."
+title: "Physics-Informed Synthetic Waveform Generation and HDL Replay Validation for Radiation Detector Readout Development"
 type: software
 authors:
   - family-names: Yilmaz
     given-names: Handan
-version: 0.1.0
-date-released: 2026-06-24
+    orcid: "https://orcid.org/0000-0002-9241-2576"
+version: 0.3.0
+date-released: 2026-11-06
 repository-code: "https://github.com/yilmazhndn/physics-informed-fpga-radiation-readout"
 keywords:
   - radiation detector readout
@@ -15,3 +16,6 @@ keywords:
   - FPGA verification
   - ADC quantization
   - HDL validation
+  - pulse-shape sensitivity
+  - false-trigger probability
+  - reproducibility
